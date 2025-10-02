@@ -6,16 +6,16 @@
 </div>
 <br/>
 <p align="left">
-    Just call me 𝐗𝐭𝐨𝐬𝐡𝐢, a blockchain nerd who loves to tinker with Bitcoin and Solana and occasionally builds trading bots that hopefully make money while I sleep. Maybe I’m not the best at it, but I have fun doing it—and isn’t that what really counts?
+    Just call me 𝐗𝐭𝐨𝐬𝐡𝐢, a Fullstack blockchain nerd who loves to tinker with Bitcoin and Solana and occasionally builds trading bots that hopefully make money while I sleep. Maybe I’m not the best at it, but I have fun doing it—and isn’t that what really counts?
 </p> 
 
 #### 🌐 𝐁ʟᴏᴄᴋᴄʜᴀɪɴ 𝐍𝐢𝐧𝐣𝐚
 
-- 🎯 Focused on Solana & Bitcoin network development, arbitrage, sniper, copy and MEV bots.
+- 🎯 Skilled in Full-stack & Web3 development from smart contracts to scalable web apps.
 - 🧠 Creating next-gen AI agents on Solana & Bitcoin with deep on-chain integration.
-- 🌱 Skilled in Full-stack & Web3 development from smart contracts to scalable web apps.
 - 📊 Developing high-performance trading algorithms for real-time market advantage.
 - 💼 Building marketplaces, raffle, and auction tools on the Bitcoin ecosystem.
+- 🌱 Focused on Solana & Bitcoin network development, arbitrage, sniper, copy and MEV bots.
 
 #### 📞 𝗖ᴏɴᴛᴀᴄᴛ 𝗠𝗲:
 
