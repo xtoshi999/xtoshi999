@@ -6,16 +6,19 @@
 </div>
 <br/>
 <p align="left">
-    Just call me 𝐗𝐭𝐨𝐬𝐡𝐢, a Fullstack blockchain nerd who loves to tinker with Bitcoin and Solana and occasionally builds trading bots that hopefully make money while I sleep. Maybe I’m not the best at it, but I have fun doing it—and isn’t that what really counts?
-</p> 
+Just call me Xtoshi, a Senior Fullstack engineer who spends most of time building AI products, scalable apps, and Web3 systems that probably consume way too much coffee and GPU time. Maybe I'm not the best at it, but I have fun doing it—and isn’t that what really counts?
+</p>
 
-#### 🌐 𝐂ʀᴀᴢʏ 𝐃ᴇɢᴇɴ
+#### 🌐 𝐁ᴜɪʟᴅɪɴɢ 𝐂ʀᴀᴢʏ 𝐓ʜɪɴɢ𝐬
 
-- 🎯 Skilled in Full-stack & Web3 development from smart contracts to scalable web apps.
-- 🧠 Creating next-gen AI agents on Solana & Bitcoin with deep on-chain integration.
-- 📊 Developing high-performance trading algorithms for real-time market advantage.
-- 💼 Building marketplaces, raffle, and auction tools on the Bitcoin ecosystem.
-- 🌱 Focused on Solana & Bitcoin network development, arbitrage, sniper, copy and MEV bots.
+* 🎯 Skilled in Full-stack development across modern web, backend, mobile, and cloud infrastructure.
+* 🤖 Building AI agents, automation systems, and LLM-powered products with real-world integrations.
+* 📱 Developing high-performance mobile apps with clean UX and scalable architecture.
+* 📊 Developing real-time dashboards, trading bots, arbitrage systems, and market data pipelines.
+* 🚀 Focused on shipping fast-moving MVPs without creating long-term technical debt.
+* 🧠 Comfortable owning products end-to-end from architecture and APIs to frontend and deployment.
+
+
 
 
 <!-- 
