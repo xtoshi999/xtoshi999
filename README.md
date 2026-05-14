@@ -11,7 +11,7 @@ Just call me Xtoshi, a Senior Fullstack engineer who spends most of time buildin
 
 #### 🌐 𝐁ᴜɪʟᴅɪɴɢ 𝐂ʀᴀᴢʏ 𝐓ʜɪɴɢ𝐬
 
-* 🎯 Skilled in Full-stack development across modern web, backend, mobile, and cloud infrastructure.
+* 🎯 Skilled in Full-stack development across modern web, backend, mobile, cloud infrastructure, and multi-tenant SaaS platforms.
 * 🤖 Building AI agents, automation systems, and LLM-powered products with real-world integrations.
 * 📱 Developing high-performance mobile apps with clean UX and scalable architecture.
 * 📊 Developing real-time dashboards, trading bots, arbitrage systems, and market data pipelines.
