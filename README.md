@@ -6,7 +6,7 @@
 </div>
 <br/>
 <p align="left">
-Systems-oriented Senior Software Engineer who spends most of time building AI products, full-stack platforms that probably consume way too much coffee and GPU time. Maybe I'm not the best at it, but I have fun doing it—and isn’t that what really counts?
+Systems-oriented Senior Software Engineer who spends most of time building AI products, full-stack platforms that probably consume way too much coffee and GPU time. Maybe I'm not the best at it, but I have fun doing it and isn't that what really counts?
 </p>
 
 #### 🌐 𝐁ᴜɪʟᴅɪɴɢ 𝐂ʀᴀᴢʏ 𝐓ʜɪɴɢ𝐬
